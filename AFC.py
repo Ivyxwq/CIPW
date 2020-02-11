@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Spyder Editor
-
-This is a temporary script file.
+xwq
+ 
+2020/2/11
 """
 
 import matplotlib.pyplot as plt 
